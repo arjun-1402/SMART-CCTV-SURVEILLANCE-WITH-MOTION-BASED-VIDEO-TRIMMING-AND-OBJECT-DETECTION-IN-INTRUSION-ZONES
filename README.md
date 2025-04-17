@@ -1,0 +1,2 @@
+# SMART-CCTV-SURVEILLANCE-WITH-MOTION-BASED-VIDEO-TRIMMING-AND-OBJECT-DETECTION-IN-INTRUSION-ZONES
+This project is a smart CCTV surveillance system that combines motion detection, video trimming, and real-time object detection to monitor predefined intrusion zones. It efficiently captures and stores only relevant footage, identifies objects like humans or vehicles, and enhances security by focusing on critical areas of interest.
